@@ -13,3 +13,8 @@ arr = [1000, 11, 445, 1, 330, 3000]
 k=3
 print(sortArr(arr)[k-1])
 
+# Much optimized one
+new_arr=sorted(arr)
+value= new_arr[k-1]
+print(value
+
